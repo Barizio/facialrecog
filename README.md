@@ -116,9 +116,12 @@ python real_time_face_recognition.py
 
 When a face is recognized:
 - The person’s name is displayed above their face.
+  ![image](https://github.com/user-attachments/assets/50e67cde-c2f8-4ef5-ab8e-e96399fbfcf7)
+
 
 When a face is not recognized:
 - "Unknown" is displayed above their face.
+![image](https://github.com/user-attachments/assets/ab37f157-5660-4a89-a795-842024c2c5c9)
 
 ---
 
